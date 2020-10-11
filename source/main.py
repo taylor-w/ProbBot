@@ -1,5 +1,7 @@
 #Import random library
+#Import discord library
 import random
+import discord
 
 #Define main fxn
 def main():
