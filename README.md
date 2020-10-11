@@ -12,5 +12,4 @@
 - Predict probability based upon question identity
 - Supply responses beyond the scope of probablity %
 ---
-##### created by
-##### Taylor Wood
+##### created by Taylor Wood
