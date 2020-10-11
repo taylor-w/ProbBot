@@ -2,6 +2,7 @@
 #Import discord library
 import random
 import discord
+from ./.client.py import tok
 
 #Define main fxn
 def main():
@@ -30,6 +31,6 @@ def dis():
         if msg.content.startswith('$hello'):
             await message.channel.send('Howdy!')
 
-    client.run('PIZZA')
+    client.run(tok)
 
 main()
