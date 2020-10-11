@@ -2,7 +2,7 @@
 #Import discord library
 import random
 import discord
-from ./.client.py import tok
+from  config import *
 
 #Define main fxn
 def main():
