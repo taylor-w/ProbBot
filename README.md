@@ -10,10 +10,6 @@
 ### Future iterations aim to:
 - Identify question
 - Predict probability based upon question identity
-- Supply responses beyond the scope of probablity %
+- Supply responses beyond the scope of probability %
 ---
-<<<<<<< HEAD
 ##### created by Taylor Wood
-=======
-##### created by Taylor Wood
->>>>>>> dae764e23b40297a3306c5d5e5785013656d436b
